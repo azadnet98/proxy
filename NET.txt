@@ -8,7 +8,3 @@ vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@108.138.17.40:80?security=none&type
 vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@18.64.103.8:80?security=none&type=ws&sni=dhg9kcw5npc8o.cloudfront.net&path=/ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_KIYANA_8
 vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@52.222.214.46:80?security=none&type=ws&sni=dhg9kcw5npc8o.cloudfront.net&path=/ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_KIYANA_9
 vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@18.66.15.118:80?security=none&type=ws&sni=dhg9kcw5npc8o.cloudfront.net&path=/ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_KIYANA_10
-vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@52.222.214.27:80?security=none&type=ws&sni=dhg9kcw5npc8o.cloudfront.net&path=/ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_KIYANA_11
-vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@52.222.214.113:80?security=none&type=ws&sni=dhg9kcw5npc8o.cloudfront.net&path=/ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_KIYANA_12
-vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@18.64.141.53:80?security=none&type=ws&sni=dhg9kcw5npc8o.cloudfront.net&path=/ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_KIYANA_13
-vless://6c4eff95-302e-4831-a5b2-826fcb37e11d@18.64.103.8:80?security=none&type=ws&sni=dhg9kcw5npc8o.cloudfront.net&path=/ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_KIYANA_14
